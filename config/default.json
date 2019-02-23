@@ -1,0 +1,10 @@
+{
+  "dbConfig": {
+      "host": "localhost",
+      "port": 27017,
+      "dbName": "raj_db",
+      "userName":"",
+      "password":"",
+      "Authneed":0
+    }
+}
